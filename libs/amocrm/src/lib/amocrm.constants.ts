@@ -1,0 +1,1 @@
+export const AMOCRM_MODULE_OPTIONS = Symbol('AMOCRM_MODULE_OPTIONS');
